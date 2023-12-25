@@ -1,0 +1,482 @@
+[
+  {
+    "number": "401",
+    "name": "Tom Nook",
+    "jp-name": "たぬきち",
+    "type": "SP",
+    "series": "5",
+    "hasPicture": false,
+    "isFavorite": false,
+    "datePhotoGotten": "01/01/1970"
+  },
+  {
+    "number": "402",
+    "name": "Timmy&Tommy",
+    "jp-name": "まめきち＆つぶきち",
+    "type": "SP",
+    "series": "5",
+    "hasPicture": false,
+    "isFavorite": false,
+    "datePhotoGotten": "01/01/1970"
+  },
+  {
+    "number": "403",
+    "name": "Isabelle",
+    "jp-name": "しずえ",
+    "type": "SP",
+    "series": "5",
+    "hasPicture": false,
+    "isFavorite": false,
+    "datePhotoGotten": "01/01/1970"
+  },
+  {
+    "number": "404",
+    "name": "Orville",
+    "jp-name": "モーリー",
+    "type": "SP",
+    "series": "5",
+    "hasPicture": false,
+    "isFavorite": false,
+    "datePhotoGotten": "01/01/1970"
+  },
+  {
+    "number": "405",
+    "name": "Wilbur",
+    "jp-name": "ロドリー",
+    "type": "SP",
+    "series": "5",
+    "hasPicture": false,
+    "isFavorite": false,
+    "datePhotoGotten": "01/01/1970"
+  },
+  {
+    "number": "406",
+    "name": "Blathers",
+    "jp-name": "フータ",
+    "type": "SP",
+    "series": "5",
+    "hasPicture": false,
+    "isFavorite": false,
+    "datePhotoGotten": "01/01/1970"
+  },
+  {
+    "number": "407",
+    "name": "Celeste",
+    "jp-name": "フーコ",
+    "type": "SP",
+    "series": "5",
+    "hasPicture": false,
+    "isFavorite": false,
+    "datePhotoGotten": "01/01/1970"
+  },
+  {
+    "number": "408",
+    "name": "Mabel",
+    "jp-name": "きぬよ",
+    "type": "SP",
+    "series": "5",
+    "hasPicture": false,
+    "isFavorite": false,
+    "datePhotoGotten": "01/01/1970"
+  },
+  {
+    "number": "409",
+    "name": "Sable",
+    "jp-name": "あさみ",
+    "type": "SP",
+    "series": "5",
+    "hasPicture": false,
+    "isFavorite": false,
+    "datePhotoGotten": "01/01/1970"
+  },
+  {
+    "number": "410",
+    "name": "Label",
+    "jp-name": "ことの",
+    "type": "SP",
+    "series": "5",
+    "hasPicture": false,
+    "isFavorite": false,
+    "datePhotoGotten": "01/01/1970"
+  },
+  {
+    "number": "411",
+    "name": "K.K. Slider",
+    "jp-name": "とたけけ",
+    "type": "SP",
+    "series": "5",
+    "hasPicture": false,
+    "isFavorite": false,
+    "datePhotoGotten": "01/01/1970"
+  },
+  {
+    "number": "412",
+    "name": "C.J.",
+    "jp-name": "ジャスティン",
+    "type": "SP",
+    "series": "5",
+    "hasPicture": false,
+    "isFavorite": false,
+    "datePhotoGotten": "01/01/1970"
+  },
+  {
+    "number": "413",
+    "name": "Flick",
+    "jp-name": "レックス",
+    "type": "SP",
+    "series": "5",
+    "hasPicture": false,
+    "isFavorite": false,
+    "datePhotoGotten": "01/01/1970"
+  },
+  {
+    "number": "414",
+    "name": "Daisy Mae",
+    "jp-name": "ウリ",
+    "type": "SP",
+    "series": "5",
+    "hasPicture": false,
+    "isFavorite": false,
+    "datePhotoGotten": "01/01/1970"
+  },
+  {
+    "number": "415",
+    "name": "Kicks",
+    "jp-name": "シャンク",
+    "type": "SP",
+    "series": "5",
+    "hasPicture": false,
+    "isFavorite": false,
+    "datePhotoGotten": "01/01/1970"
+  },
+  {
+    "number": "416",
+    "name": "Saharah",
+    "jp-name": "ローラン",
+    "type": "SP",
+    "series": "5",
+    "hasPicture": false,
+    "isFavorite": false,
+    "datePhotoGotten": "01/01/1970"
+  },
+  {
+    "number": "417",
+    "name": "Harvey",
+    "jp-name": "パニエル",
+    "type": "SP",
+    "series": "5",
+    "hasPicture": false,
+    "isFavorite": false,
+    "datePhotoGotten": "01/01/1970"
+  },
+  {
+    "number": "418",
+    "name": "Gulliver",
+    "jp-name": "ジョニー",
+    "type": "SP",
+    "series": "5",
+    "hasPicture": false,
+    "isFavorite": false,
+    "datePhotoGotten": "01/01/1970"
+  },
+  {
+    "number": "419",
+    "name": "Wisp",
+    "jp-name": "ゆうたろう",
+    "type": "SP",
+    "series": "5",
+    "hasPicture": false,
+    "isFavorite": false,
+    "datePhotoGotten": "01/01/1970"
+  },
+  {
+    "number": "420",
+    "name": "Lottie",
+    "jp-name": "タクミ",
+    "type": "SP",
+    "series": "5",
+    "hasPicture": false,
+    "isFavorite": false,
+    "datePhotoGotten": "01/01/1970"
+  },
+  {
+    "number": "421",
+    "name": "NIko",
+    "jp-name": "ニコ",
+    "type": "SP",
+    "series": "5",
+    "hasPicture": false,
+    "isFavorite": false,
+    "datePhotoGotten": "01/01/1970"
+  },
+  {
+    "number": "422",
+    "name": "Wardell",
+    "jp-name": "ナッティー",
+    "type": "SP",
+    "series": "5",
+    "hasPicture": false,
+    "isFavorite": false,
+    "datePhotoGotten": "01/01/1970"
+  },
+  {
+    "number": "423",
+    "name": "Tom Nook",
+    "jp-name": "たぬきち",
+    "type": "SP",
+    "series": "5",
+    "hasPicture": false,
+    "isFavorite": false,
+    "datePhotoGotten": "01/01/1970"
+  },
+  {
+    "number": "424",
+    "name": "Isabelle",
+    "jp-name": "しずえ",
+    "type": "SP",
+    "series": "5",
+    "hasPicture": false,
+    "isFavorite": false,
+    "datePhotoGotten": "01/01/1970"
+  },
+  {
+    "number": "425",
+    "name": "Sherb",
+    "jp-name": "レム",
+    "type": "Goat",
+    "series": "5",
+    "hasPicture": false,
+    "isFavorite": false,
+    "datePhotoGotten": "01/01/1970"
+  },
+  {
+    "number": "426",
+    "name": "Megan",
+    "jp-name": "キャンディ",
+    "type": "Bear",
+    "series": "5",
+    "hasPicture": false,
+    "isFavorite": false,
+    "datePhotoGotten": "01/01/1970"
+  },
+  {
+    "number": "427",
+    "name": "Dom",
+    "jp-name": "ちゃちゃまる",
+    "type": "Sheep",
+    "series": "5",
+    "hasPicture": false,
+    "isFavorite": false,
+    "datePhotoGotten": "01/01/1970"
+  },
+  {
+    "number": "428",
+    "name": "Audie",
+    "jp-name": "モニカ",
+    "type": "Wolf",
+    "series": "5",
+    "hasPicture": false,
+    "isFavorite": false,
+    "datePhotoGotten": "01/01/1970"
+  },
+  {
+    "number": "429",
+    "name": "Cyd",
+    "jp-name": "パンクス",
+    "type": "Elephant",
+    "series": "5",
+    "hasPicture": false,
+    "isFavorite": false,
+    "datePhotoGotten": "01/01/1970"
+  },
+  {
+    "number": "430",
+    "name": "Judy",
+    "jp-name": "みすず",
+    "type": "Cub",
+    "series": "5",
+    "hasPicture": false,
+    "isFavorite": false,
+    "datePhotoGotten": "01/01/1970"
+  },
+  {
+    "number": "431",
+    "name": "Raymond",
+    "jp-name": "ジャック",
+    "type": "Cat",
+    "series": "5",
+    "hasPicture": false,
+    "isFavorite": false,
+    "datePhotoGotten": "01/01/1970"
+  },
+  {
+    "number": "432",
+    "name": "Reneigh",
+    "jp-name": "リアーナ",
+    "type": "Horse",
+    "series": "5",
+    "hasPicture": false,
+    "isFavorite": false,
+    "datePhotoGotten": "01/01/1970"
+  },
+  {
+    "number": "433",
+    "name": "Sasha",
+    "jp-name": "ミッチェル",
+    "type": "Rabbit",
+    "series": "5",
+    "hasPicture": false,
+    "isFavorite": false,
+    "datePhotoGotten": "01/01/1970"
+  },
+  {
+    "number": "434",
+    "name": "Ione",
+    "jp-name": "スピカ",
+    "type": "Squirrel",
+    "series": "5",
+    "hasPicture": false,
+    "isFavorite": false,
+    "datePhotoGotten": "01/01/1970"
+  },
+  {
+    "number": "435",
+    "name": "Tiansheng",
+    "jp-name": "テンシン",
+    "type": "Monkey",
+    "series": "5",
+    "hasPicture": false,
+    "isFavorite": false,
+    "datePhotoGotten": "01/01/1970"
+  },
+  {
+    "number": "436",
+    "name": "Shino",
+    "jp-name": "よしの",
+    "type": "Deer",
+    "series": "5",
+    "hasPicture": false,
+    "isFavorite": false,
+    "datePhotoGotten": "01/01/1970"
+  },
+  {
+    "number": "437",
+    "name": "Marlo",
+    "jp-name": "ドンチャン",
+    "type": "Hamster",
+    "series": "5",
+    "hasPicture": false,
+    "isFavorite": false,
+    "datePhotoGotten": "01/01/1970"
+  },
+  {
+    "number": "438",
+    "name": "Petri",
+    "jp-name": "リカ",
+    "type": "Mouse",
+    "series": "5",
+    "hasPicture": false,
+    "isFavorite": false,
+    "datePhotoGotten": "01/01/1970"
+  },
+  {
+    "number": "439",
+    "name": "Cephalobot",
+    "jp-name": "ギーガー",
+    "type": "Octopus",
+    "series": "5",
+    "hasPicture": false,
+    "isFavorite": false,
+    "datePhotoGotten": "01/01/1970"
+  },
+  {
+    "number": "440",
+    "name": "Quinn",
+    "jp-name": "シオン",
+    "type": "Eagle",
+    "series": "5",
+    "hasPicture": false,
+    "isFavorite": false,
+    "datePhotoGotten": "01/01/1970"
+  },
+  {
+    "number": "441",
+    "name": "Chabwick",
+    "jp-name": "のぶお",
+    "type": "Penguin",
+    "series": "5",
+    "hasPicture": false,
+    "isFavorite": false,
+    "datePhotoGotten": "01/01/1970"
+  },
+  {
+    "number": "442",
+    "name": "Zoe",
+    "jp-name": "ビーフン",
+    "type": "Anteater",
+    "series": "5",
+    "hasPicture": false,
+    "isFavorite": false,
+    "datePhotoGotten": "01/01/1970"
+  },
+  {
+    "number": "443",
+    "name": "Ace",
+    "jp-name": "フェザー",
+    "type": "Bird",
+    "series": "5",
+    "hasPicture": false,
+    "isFavorite": false,
+    "datePhotoGotten": "01/01/1970"
+  },
+  {
+    "number": "444",
+    "name": "Rio",
+    "jp-name": "デジャネロ",
+    "type": "Ostrich",
+    "series": "5",
+    "hasPicture": false,
+    "isFavorite": false,
+    "datePhotoGotten": "01/01/1970"
+  },
+  {
+    "number": "445",
+    "name": "Frett",
+    "jp-name": "シャンペン",
+    "type": "Dog",
+    "series": "5",
+    "hasPicture": false,
+    "isFavorite": false,
+    "datePhotoGotten": "01/01/1970"
+  },
+  {
+    "number": "446",
+    "name": "Azalea",
+    "jp-name": "ペチュニア",
+    "type": "Rhino",
+    "series": "5",
+    "hasPicture": false,
+    "isFavorite": false,
+    "datePhotoGotten": "01/01/1970"
+  },
+  {
+    "number": "447",
+    "name": "Roswell",
+    "jp-name": "ピロンコン",
+    "type": "Alligator",
+    "series": "5",
+    "hasPicture": false,
+    "isFavorite": false,
+    "datePhotoGotten": "01/01/1970"
+  },
+  {
+    "number": "448",
+    "name": "Faith",
+    "jp-name": "マーチ",
+    "type": "Koala",
+    "series": "5",
+    "hasPicture": false,
+    "isFavorite": false,
+    "datePhotoGotten": "01/01/1970"
+  }
+]

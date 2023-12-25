@@ -1,0 +1,11 @@
+{
+  "name": "amiibo-tracker",
+  "version": "1.0.0",
+  "description": "Tracking for animal crossing: new horizon amiibos",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ian Dugo",
+  "license": "ISC"
+}
